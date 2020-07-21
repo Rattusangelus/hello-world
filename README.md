@@ -1,2 +1,6 @@
 # hello-world
-Just a repository and intro to the world
+
+Hello!
+
+My name is AJ and I like ice cream and geek culture. 
+One of my favorite movies is Star Wars. 
